@@ -1,0 +1,8 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 11,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "selection",
+    "editor.cursorStyle": "line"
+}
