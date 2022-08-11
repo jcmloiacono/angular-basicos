@@ -1,0 +1,8 @@
+<h3>Personajes</h3>
+<hr>
+<ul>
+    <li *ngFor="let personaje of personajes">
+        <!-- usando pipes | number para separador de miles -->
+        {{personaje.nombre}} - {{personaje.poder | number }}
+    </li>
+</ul>
